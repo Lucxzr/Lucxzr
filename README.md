@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lucxzr
-- 👀 I’m interested in start programming
+- 👀 I’m interested in web developer
 - 🌱 I’m currently learning HTML5 and CSS3
 - 📫 How to reach me: http://instagram.com/lucxzrr
 
